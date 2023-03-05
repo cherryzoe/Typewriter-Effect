@@ -1,0 +1,28 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/runtime": "^7.21.0",
+    "@codemirror/state": ">=6.0.0",
+    "@codemirror/theme-one-dark": ">=6.0.0",
+    "@codemirror/view": ">=6.0.0",
+    "@types/react": "^18.0.8",
+    "@types/react-dom": "^18.0.2",
+    "@uiw/codemirror-theme-sublime": "^4.19.9",
+    "@uiw/react-codemirror": "^4.19.9",
+    "codemirror": "^6.65.7",
+    "codemirror/state": "*",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
